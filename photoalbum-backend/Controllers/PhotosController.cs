@@ -150,9 +150,5 @@ namespace photoalbum_backend.Controllers
             return NoContent();
         }
 
-        //private bool PhotoExists(int id)
-        //{
-        //    return (_context.Photos?.Any(e => e.Id == id)).GetValueOrDefault();
-        //}
     }
 }
