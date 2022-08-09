@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wBUWVKqrjM8BQ1WSBfvaDMOv6jRmKMyB5REaxULzlds=",
+  "Source": "photoalbum-backend",
+  "BasePath": "_content/photoalbum-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
